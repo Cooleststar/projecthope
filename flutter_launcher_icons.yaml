@@ -1,0 +1,4 @@
+flutter_launcher_icons:
+  android: "launcher_icon" # Base icon name for Android
+  ios: true
+  image_path: "images/Layer 1.png"
