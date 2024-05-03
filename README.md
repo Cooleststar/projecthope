@@ -1,3 +1,7 @@
+# APIKEY
+Change the 'APIKEY' in main.dart into your own Gemini API Key
+const APIKEY = 'APIKEY'; // Add your API KEY Here
+
 # projecthope
 
 A new Flutter project.
